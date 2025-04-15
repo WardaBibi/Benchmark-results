@@ -1,1 +1,0 @@
-ERROR: 'brew services stop postgresql@17' returned 130

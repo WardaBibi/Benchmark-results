@@ -1,0 +1,1 @@
+ERROR: 'brew services stop mongodb-community' returned 130

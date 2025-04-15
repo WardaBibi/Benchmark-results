@@ -1,0 +1,7 @@
+Endpoint:,mongodb://127.0.0.1:27017/test
+Table:,myrunworkers30
+RecordLimit:,1000000
+Workers:,30
+PaddingSize:,
+Workload:,insert
+

@@ -1,1 +1,0 @@
-ERROR: 'reset_postgres' returned 2

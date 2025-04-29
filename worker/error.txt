@@ -1,0 +1,1 @@
+ERROR: 'run_test "insert" $PG_CONN' returned 130

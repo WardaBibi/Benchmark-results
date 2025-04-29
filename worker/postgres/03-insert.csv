@@ -1,0 +1,7 @@
+Endpoint:,postgres://127.0.0.1/test?sslmode=disable;binary_parameters=yes
+Table:,worker
+RecordLimit:,100000
+Workers:,30
+PaddingSize:,
+Workload:,insert
+

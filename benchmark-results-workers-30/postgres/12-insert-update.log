@@ -1,0 +1,466 @@
+2025/04/29 15:24:23 insert 1089op/s avg.17ms	update 1083op/s avg.4ms
+2025/04/29 15:24:24 insert 1075op/s avg.22ms	update 1072op/s avg.4ms
+2025/04/29 15:24:25 insert 886op/s avg.23ms	update 891op/s avg.9ms
+2025/04/29 15:24:26 insert 1075op/s avg.21ms	update 1071op/s avg.5ms
+2025/04/29 15:24:27 insert 1076op/s avg.21ms	update 1076op/s avg.6ms
+2025/04/29 15:24:28 insert 1101op/s avg.19ms	update 1102op/s avg.5ms
+2025/04/29 15:24:29 insert 1088op/s avg.21ms	update 1089op/s avg.6ms
+2025/04/29 15:24:30 insert 1079op/s avg.20ms	update 1084op/s avg.6ms
+2025/04/29 15:24:31 insert 1091op/s avg.19ms	update 1085op/s avg.5ms
+2025/04/29 15:24:32 insert 1089op/s avg.19ms	update 1085op/s avg.6ms
+
+2025/04/29 15:24:33 insert 1085op/s avg.19ms	update 1090op/s avg.6ms
+2025/04/29 15:24:34 insert 1045op/s avg.22ms	update 1043op/s avg.3ms
+2025/04/29 15:24:35 insert 1076op/s avg.20ms	update 1079op/s avg.3ms
+2025/04/29 15:24:36 insert 1081op/s avg.24ms	update 1079op/s avg.4ms
+2025/04/29 15:24:37 insert 1103op/s avg.20ms	update 1103op/s avg.5ms
+2025/04/29 15:24:38 insert 1068op/s avg.18ms	update 1070op/s avg.6ms
+2025/04/29 15:24:39 insert 1078op/s avg.20ms	update 1076op/s avg.5ms
+2025/04/29 15:24:40 insert 1108op/s avg.22ms	update 1107op/s avg.6ms
+2025/04/29 15:24:41 insert 1101op/s avg.19ms	update 1102op/s avg.5ms
+2025/04/29 15:24:42 insert 1090op/s avg.17ms	update 1090op/s avg.6ms
+
+2025/04/29 15:24:43 insert 1101op/s avg.21ms	update 1102op/s avg.6ms
+2025/04/29 15:24:44 insert 1086op/s avg.21ms	update 1088op/s avg.5ms
+2025/04/29 15:24:45 insert 1097op/s avg.20ms	update 1096op/s avg.4ms
+2025/04/29 15:24:46 insert 1100op/s avg.21ms	update 1098op/s avg.4ms
+2025/04/29 15:24:47 insert 1082op/s avg.20ms	update 1083op/s avg.5ms
+2025/04/29 15:24:48 insert 1016op/s avg.24ms	update 1010op/s avg.5ms
+2025/04/29 15:24:49 insert 1103op/s avg.20ms	update 1107op/s avg.5ms
+2025/04/29 15:24:50 insert 1115op/s avg.18ms	update 1116op/s avg.5ms
+2025/04/29 15:24:51 insert 1086op/s avg.20ms	update 1084op/s avg.5ms
+2025/04/29 15:24:52 insert 970op/s avg.21ms	update 970op/s avg.6ms
+
+2025/04/29 15:24:53 insert 1106op/s avg.21ms	update 1110op/s avg.6ms
+2025/04/29 15:24:54 insert 1121op/s avg.20ms	update 1120op/s avg.4ms
+2025/04/29 15:24:55 insert 1115op/s avg.23ms	update 1109op/s avg.4ms
+2025/04/29 15:24:56 insert 1091op/s avg.18ms	update 1091op/s avg.7ms
+2025/04/29 15:24:57 insert 1076op/s avg.19ms	update 1078op/s avg.7ms
+2025/04/29 15:24:58 insert 1101op/s avg.17ms	update 1101op/s avg.7ms
+2025/04/29 15:24:59 insert 1117op/s avg.17ms	update 1119op/s avg.7ms
+2025/04/29 15:25:00 insert 1120op/s avg.19ms	update 1120op/s avg.5ms
+2025/04/29 15:25:01 insert 1089op/s avg.21ms	update 1087op/s avg.5ms
+2025/04/29 15:25:02 insert 908op/s avg.22ms	update 909op/s avg.8ms
+
+2025/04/29 15:25:03 insert 1111op/s avg.19ms	update 1112op/s avg.6ms
+2025/04/29 15:25:04 insert 1111op/s avg.18ms	update 1110op/s avg.7ms
+2025/04/29 15:25:05 insert 1097op/s avg.19ms	update 1099op/s avg.6ms
+2025/04/29 15:25:06 insert 1101op/s avg.20ms	update 1101op/s avg.5ms
+2025/04/29 15:25:07 insert 1116op/s avg.19ms	update 1111op/s avg.6ms
+2025/04/29 15:25:08 insert 1085op/s avg.16ms	update 1088op/s avg.9ms
+2025/04/29 15:25:09 insert 1093op/s avg.20ms	update 1090op/s avg.6ms
+2025/04/29 15:25:10 insert 1110op/s avg.20ms	update 1114op/s avg.5ms
+2025/04/29 15:25:11 insert 1093op/s avg.19ms	update 1095op/s avg.6ms
+2025/04/29 15:25:12 insert 1097op/s avg.19ms	update 1095op/s avg.5ms
+
+2025/04/29 15:25:13 insert 1121op/s avg.19ms	update 1123op/s avg.6ms
+2025/04/29 15:25:14 insert 1132op/s avg.18ms	update 1131op/s avg.6ms
+2025/04/29 15:25:15 insert 1081op/s avg.20ms	update 1080op/s avg.6ms
+2025/04/29 15:25:16 insert 1086op/s avg.18ms	update 1085op/s avg.7ms
+2025/04/29 15:25:17 insert 1105op/s avg.18ms	update 1104op/s avg.6ms
+2025/04/29 15:25:18 insert 1076op/s avg.18ms	update 1081op/s avg.5ms
+2025/04/29 15:25:19 insert 1115op/s avg.18ms	update 1115op/s avg.6ms
+2025/04/29 15:25:20 insert 1116op/s avg.20ms	update 1113op/s avg.5ms
+2025/04/29 15:25:21 insert 1112op/s avg.21ms	update 1112op/s avg.6ms
+2025/04/29 15:25:22 insert 1095op/s avg.19ms	update 1093op/s avg.6ms
+
+2025/04/29 15:25:23 insert 1107op/s avg.20ms	update 1105op/s avg.6ms
+2025/04/29 15:25:24 insert 1096op/s avg.17ms	update 1100op/s avg.8ms
+2025/04/29 15:25:25 insert 1126op/s avg.19ms	update 1123op/s avg.6ms
+2025/04/29 15:25:26 insert 1089op/s avg.19ms	update 1093op/s avg.7ms
+2025/04/29 15:25:27 insert 1084op/s avg.20ms	update 1083op/s avg.5ms
+2025/04/29 15:25:28 insert 1090op/s avg.19ms	update 1089op/s avg.6ms
+2025/04/29 15:25:29 insert 1067op/s avg.19ms	update 1065op/s avg.7ms
+2025/04/29 15:25:30 insert 1083op/s avg.20ms	update 1083op/s avg.6ms
+2025/04/29 15:25:31 insert 1072op/s avg.19ms	update 1074op/s avg.5ms
+2025/04/29 15:25:32 insert 1019op/s avg.22ms	update 1021op/s avg.6ms
+
+2025/04/29 15:25:33 insert 1081op/s avg.19ms	update 1080op/s avg.6ms
+2025/04/29 15:25:34 insert 1106op/s avg.19ms	update 1102op/s avg.6ms
+2025/04/29 15:25:35 insert 1079op/s avg.18ms	update 1082op/s avg.8ms
+2025/04/29 15:25:36 insert 1038op/s avg.19ms	update 1039op/s avg.7ms
+2025/04/29 15:25:37 insert 1105op/s avg.17ms	update 1106op/s avg.7ms
+2025/04/29 15:25:38 insert 1098op/s avg.18ms	update 1100op/s avg.5ms
+2025/04/29 15:25:39 insert 1110op/s avg.21ms	update 1107op/s avg.5ms
+2025/04/29 15:25:40 insert 1091op/s avg.20ms	update 1093op/s avg.6ms
+2025/04/29 15:25:41 insert 1107op/s avg.19ms	update 1105op/s avg.6ms
+2025/04/29 15:25:42 insert 1115op/s avg.18ms	update 1111op/s avg.6ms
+
+2025/04/29 15:25:43 insert 1110op/s avg.19ms	update 1115op/s avg.6ms
+2025/04/29 15:25:44 insert 1120op/s avg.19ms	update 1116op/s avg.6ms
+2025/04/29 15:25:45 insert 1085op/s avg.17ms	update 1091op/s avg.8ms
+2025/04/29 15:25:46 insert 1116op/s avg.18ms	update 1110op/s avg.5ms
+2025/04/29 15:25:47 insert 1097op/s avg.20ms	update 1103op/s avg.6ms
+2025/04/29 15:25:48 insert 1076op/s avg.20ms	update 1073op/s avg.6ms
+2025/04/29 15:25:49 insert 1088op/s avg.19ms	update 1087op/s avg.7ms
+2025/04/29 15:25:50 insert 1087op/s avg.19ms	update 1083op/s avg.6ms
+2025/04/29 15:25:51 insert 1129op/s avg.20ms	update 1138op/s avg.5ms
+2025/04/29 15:25:52 insert 1122op/s avg.21ms	update 1117op/s avg.3ms
+
+2025/04/29 15:25:53 insert 1123op/s avg.17ms	update 1123op/s avg.5ms
+2025/04/29 15:25:54 insert 1096op/s avg.20ms	update 1095op/s avg.7ms
+2025/04/29 15:25:55 insert 1091op/s avg.19ms	update 1095op/s avg.4ms
+2025/04/29 15:25:56 insert 1081op/s avg.23ms	update 1079op/s avg.5ms
+2025/04/29 15:25:57 insert 1112op/s avg.21ms	update 1109op/s avg.4ms
+2025/04/29 15:25:58 insert 1085op/s avg.20ms	update 1090op/s avg.5ms
+2025/04/29 15:25:59 insert 1098op/s avg.19ms	update 1097op/s avg.6ms
+2025/04/29 15:26:00 insert 1101op/s avg.21ms	update 1101op/s avg.4ms
+2025/04/29 15:26:01 insert 1093op/s avg.19ms	update 1093op/s avg.4ms
+2025/04/29 15:26:02 insert 1075op/s avg.22ms	update 1075op/s avg.5ms
+
+2025/04/29 15:26:03 insert 1089op/s avg.22ms	update 1089op/s avg.6ms
+2025/04/29 15:26:04 insert 1062op/s avg.21ms	update 1065op/s avg.6ms
+2025/04/29 15:26:05 insert 1063op/s avg.20ms	update 1056op/s avg.6ms
+2025/04/29 15:26:06 insert 1078op/s avg.20ms	update 1080op/s avg.6ms
+2025/04/29 15:26:07 insert 1092op/s avg.20ms	update 1091op/s avg.6ms
+2025/04/29 15:26:08 insert 1091op/s avg.18ms	update 1097op/s avg.7ms
+2025/04/29 15:26:09 insert 1115op/s avg.17ms	update 1112op/s avg.7ms
+2025/04/29 15:26:10 insert 1127op/s avg.19ms	update 1126op/s avg.6ms
+2025/04/29 15:26:11 insert 1048op/s avg.20ms	update 1050op/s avg.6ms
+2025/04/29 15:26:12 insert 1115op/s avg.20ms	update 1110op/s avg.5ms
+
+2025/04/29 15:26:13 insert 1117op/s avg.18ms	update 1118op/s avg.7ms
+2025/04/29 15:26:14 insert 1086op/s avg.19ms	update 1091op/s avg.6ms
+2025/04/29 15:26:15 insert 1108op/s avg.18ms	update 1106op/s avg.6ms
+2025/04/29 15:26:16 insert 1098op/s avg.19ms	update 1098op/s avg.6ms
+2025/04/29 15:26:17 insert 1105op/s avg.19ms	update 1105op/s avg.6ms
+2025/04/29 15:26:18 insert 1108op/s avg.19ms	update 1105op/s avg.6ms
+2025/04/29 15:26:19 insert 1105op/s avg.18ms	update 1107op/s avg.7ms
+2025/04/29 15:26:20 insert 1110op/s avg.18ms	update 1110op/s avg.8ms
+2025/04/29 15:26:21 insert 1074op/s avg.19ms	update 1074op/s avg.6ms
+2025/04/29 15:26:22 insert 1012op/s avg.21ms	update 1017op/s avg.6ms
+
+2025/04/29 15:26:23 insert 1051op/s avg.21ms	update 1048op/s avg.6ms
+2025/04/29 15:26:24 insert 1080op/s avg.19ms	update 1076op/s avg.6ms
+2025/04/29 15:26:25 insert 1091op/s avg.19ms	update 1091op/s avg.7ms
+2025/04/29 15:26:26 insert 1038op/s avg.21ms	update 1039op/s avg.6ms
+2025/04/29 15:26:27 insert 1085op/s avg.19ms	update 1083op/s avg.6ms
+2025/04/29 15:26:28 insert 1074op/s avg.19ms	update 1079op/s avg.7ms
+2025/04/29 15:26:29 insert 1075op/s avg.21ms	update 1077op/s avg.5ms
+2025/04/29 15:26:30 insert 1074op/s avg.19ms	update 1067op/s avg.7ms
+2025/04/29 15:26:31 insert 1085op/s avg.19ms	update 1084op/s avg.6ms
+2025/04/29 15:26:32 insert 1078op/s avg.19ms	update 1081op/s avg.6ms
+
+2025/04/29 15:26:33 insert 1088op/s avg.19ms	update 1087op/s avg.6ms
+2025/04/29 15:26:34 insert 1085op/s avg.20ms	update 1087op/s avg.5ms
+2025/04/29 15:26:35 insert 1020op/s avg.20ms	update 1020op/s avg.7ms
+2025/04/29 15:26:36 insert 1008op/s avg.20ms	update 1012op/s avg.6ms
+2025/04/29 15:26:37 insert 996op/s avg.22ms	update 993op/s avg.7ms
+2025/04/29 15:26:38 insert 1048op/s avg.20ms	update 1049op/s avg.7ms
+2025/04/29 15:26:39 insert 1037op/s avg.21ms	update 1037op/s avg.5ms
+2025/04/29 15:26:40 insert 1053op/s avg.21ms	update 1050op/s avg.6ms
+2025/04/29 15:26:41 insert 934op/s avg.19ms	update 936op/s avg.8ms
+2025/04/29 15:26:42 insert 1034op/s avg.24ms	update 1032op/s avg.6ms
+
+2025/04/29 15:26:43 insert 1034op/s avg.21ms	update 1036op/s avg.6ms
+2025/04/29 15:26:44 insert 1067op/s avg.21ms	update 1057op/s avg.5ms
+2025/04/29 15:26:45 insert 1064op/s avg.18ms	update 1072op/s avg.8ms
+2025/04/29 15:26:46 insert 1055op/s avg.19ms	update 1057op/s avg.7ms
+2025/04/29 15:26:47 insert 1066op/s avg.19ms	update 1069op/s avg.7ms
+2025/04/29 15:26:48 insert 1072op/s avg.20ms	update 1071op/s avg.6ms
+2025/04/29 15:26:49 insert 1067op/s avg.19ms	update 1067op/s avg.6ms
+2025/04/29 15:26:50 insert 1046op/s avg.20ms	update 1045op/s avg.7ms
+2025/04/29 15:26:51 insert 1060op/s avg.19ms	update 1061op/s avg.7ms
+2025/04/29 15:26:52 insert 1062op/s avg.19ms	update 1062op/s avg.6ms
+
+2025/04/29 15:26:53 insert 1046op/s avg.21ms	update 1042op/s avg.6ms
+2025/04/29 15:26:54 insert 1032op/s avg.20ms	update 1031op/s avg.7ms
+2025/04/29 15:26:55 insert 1057op/s avg.20ms	update 1057op/s avg.6ms
+2025/04/29 15:26:56 insert 1056op/s avg.18ms	update 1056op/s avg.7ms
+2025/04/29 15:26:57 insert 1060op/s avg.21ms	update 1063op/s avg.6ms
+2025/04/29 15:26:58 insert 927op/s avg.23ms	update 926op/s avg.7ms
+2025/04/29 15:26:59 insert 1054op/s avg.20ms	update 1055op/s avg.6ms
+2025/04/29 15:27:00 insert 1068op/s avg.20ms	update 1067op/s avg.5ms
+2025/04/29 15:27:01 insert 1063op/s avg.20ms	update 1064op/s avg.5ms
+2025/04/29 15:27:02 insert 1067op/s avg.21ms	update 1065op/s avg.5ms
+
+2025/04/29 15:27:03 insert 1063op/s avg.22ms	update 1065op/s avg.5ms
+2025/04/29 15:27:04 insert 957op/s avg.20ms	update 953op/s avg.7ms
+2025/04/29 15:27:05 insert 924op/s avg.22ms	update 925op/s avg.8ms
+2025/04/29 15:27:06 insert 993op/s avg.22ms	update 995op/s avg.8ms
+2025/04/29 15:27:07 insert 1073op/s avg.19ms	update 1072op/s avg.4ms
+2025/04/29 15:27:08 insert 1068op/s avg.21ms	update 1069op/s avg.7ms
+2025/04/29 15:27:09 insert 1065op/s avg.22ms	update 1068op/s avg.4ms
+2025/04/29 15:27:10 insert 1060op/s avg.19ms	update 1055op/s avg.6ms
+2025/04/29 15:27:11 insert 1067op/s avg.20ms	update 1071op/s avg.5ms
+2025/04/29 15:27:12 insert 1043op/s avg.22ms	update 1043op/s avg.6ms
+
+2025/04/29 15:27:13 insert 1032op/s avg.23ms	update 1032op/s avg.5ms
+2025/04/29 15:27:14 insert 1008op/s avg.21ms	update 1006op/s avg.5ms
+2025/04/29 15:27:15 insert 1052op/s avg.25ms	update 1052op/s avg.5ms
+2025/04/29 15:27:16 insert 1045op/s avg.20ms	update 1050op/s avg.4ms
+2025/04/29 15:27:17 insert 1011op/s avg.23ms	update 1010op/s avg.6ms
+2025/04/29 15:27:18 insert 956op/s avg.23ms	update 952op/s avg.6ms
+2025/04/29 15:27:19 insert 1032op/s avg.19ms	update 1034op/s avg.6ms
+2025/04/29 15:27:20 insert 1012op/s avg.21ms	update 1012op/s avg.8ms
+2025/04/29 15:27:21 insert 1067op/s avg.21ms	update 1065op/s avg.5ms
+2025/04/29 15:27:22 insert 1044op/s avg.20ms	update 1045op/s avg.8ms
+
+2025/04/29 15:27:23 insert 1036op/s avg.19ms	update 1034op/s avg.6ms
+2025/04/29 15:27:24 insert 1062op/s avg.20ms	update 1065op/s avg.8ms
+2025/04/29 15:27:25 insert 1071op/s avg.20ms	update 1069op/s avg.4ms
+2025/04/29 15:27:26 insert 1066op/s avg.21ms	update 1064op/s avg.6ms
+2025/04/29 15:27:27 insert 1074op/s avg.20ms	update 1080op/s avg.7ms
+2025/04/29 15:27:28 insert 1080op/s avg.18ms	update 1072op/s avg.7ms
+2025/04/29 15:27:29 insert 1044op/s avg.20ms	update 1052op/s avg.6ms
+2025/04/29 15:27:30 insert 1059op/s avg.21ms	update 1055op/s avg.6ms
+2025/04/29 15:27:31 insert 1074op/s avg.20ms	update 1076op/s avg.6ms
+2025/04/29 15:27:32 insert 1062op/s avg.19ms	update 1063op/s avg.6ms
+
+2025/04/29 15:27:33 insert 1048op/s avg.21ms	update 1044op/s avg.6ms
+2025/04/29 15:27:34 insert 1064op/s avg.18ms	update 1062op/s avg.6ms
+2025/04/29 15:27:35 insert 1042op/s avg.20ms	update 1046op/s avg.6ms
+2025/04/29 15:27:36 insert 1044op/s avg.21ms	update 1044op/s avg.6ms
+2025/04/29 15:27:37 insert 1045op/s avg.19ms	update 1043op/s avg.6ms
+2025/04/29 15:27:38 insert 942op/s avg.24ms	update 940op/s avg.7ms
+2025/04/29 15:27:39 insert 1073op/s avg.21ms	update 1075op/s avg.8ms
+2025/04/29 15:27:40 insert 1067op/s avg.19ms	update 1065op/s avg.6ms
+2025/04/29 15:27:41 insert 1054op/s avg.20ms	update 1056op/s avg.7ms
+2025/04/29 15:27:42 insert 930op/s avg.22ms	update 932op/s avg.8ms
+
+2025/04/29 15:27:43 insert 1001op/s avg.19ms	update 998op/s avg.7ms
+2025/04/29 15:27:44 insert 1027op/s avg.20ms	update 1027op/s avg.5ms
+2025/04/29 15:27:45 insert 1000op/s avg.21ms	update 1005op/s avg.8ms
+2025/04/29 15:27:46 insert 1057op/s avg.23ms	update 1056op/s avg.4ms
+2025/04/29 15:27:47 insert 1032op/s avg.22ms	update 1033op/s avg.5ms
+2025/04/29 15:27:48 insert 1041op/s avg.21ms	update 1042op/s avg.5ms
+2025/04/29 15:27:49 insert 1054op/s avg.21ms	update 1051op/s avg.4ms
+2025/04/29 15:27:50 insert 1022op/s avg.22ms	update 1024op/s avg.4ms
+2025/04/29 15:27:51 insert 1006op/s avg.23ms	update 1006op/s avg.4ms
+2025/04/29 15:27:52 insert 1034op/s avg.24ms	update 1035op/s avg.4ms
+
+2025/04/29 15:27:53 insert 1040op/s avg.23ms	update 1041op/s avg.7ms
+2025/04/29 15:27:54 insert 1029op/s avg.20ms	update 1026op/s avg.3ms
+2025/04/29 15:27:55 insert 1052op/s avg.23ms	update 1056op/s avg.5ms
+2025/04/29 15:27:56 insert 1026op/s avg.23ms	update 1025op/s avg.4ms
+2025/04/29 15:27:57 insert 984op/s avg.25ms	update 980op/s avg.6ms
+2025/04/29 15:27:58 insert 978op/s avg.23ms	update 977op/s avg.6ms
+2025/04/29 15:27:59 insert 1011op/s avg.20ms	update 1009op/s avg.7ms
+2025/04/29 15:28:00 insert 1016op/s avg.21ms	update 1020op/s avg.6ms
+2025/04/29 15:28:01 insert 1008op/s avg.21ms	update 1006op/s avg.6ms
+2025/04/29 15:28:02 insert 997op/s avg.21ms	update 997op/s avg.6ms
+
+2025/04/29 15:28:03 insert 993op/s avg.19ms	update 993op/s avg.7ms
+2025/04/29 15:28:04 insert 860op/s avg.26ms	update 862op/s avg.10ms
+2025/04/29 15:28:05 insert 981op/s avg.21ms	update 980op/s avg.5ms
+2025/04/29 15:28:06 insert 998op/s avg.22ms	update 997op/s avg.5ms
+2025/04/29 15:28:07 insert 1015op/s avg.19ms	update 1014op/s avg.7ms
+2025/04/29 15:28:08 insert 989op/s avg.24ms	update 987op/s avg.6ms
+2025/04/29 15:28:09 insert 1011op/s avg.21ms	update 1016op/s avg.8ms
+2025/04/29 15:28:10 insert 1007op/s avg.18ms	update 1006op/s avg.7ms
+2025/04/29 15:28:11 insert 1027op/s avg.23ms	update 1029op/s avg.5ms
+2025/04/29 15:28:12 insert 1056op/s avg.20ms	update 1055op/s avg.6ms
+
+2025/04/29 15:28:13 insert 1073op/s avg.21ms	update 1072op/s avg.6ms
+2025/04/29 15:28:14 insert 802op/s avg.26ms	update 799op/s avg.9ms
+2025/04/29 15:28:15 insert 1005op/s avg.22ms	update 1002op/s avg.7ms
+2025/04/29 15:28:16 insert 972op/s avg.21ms	update 974op/s avg.7ms
+2025/04/29 15:28:17 insert 997op/s avg.22ms	update 1001op/s avg.6ms
+
+insert latency:
+Count: 250028  Min:   0.0  Max: 2295.0  Avg: 20.62
+------------------------------------------------------------
+[    0.000000,     1.000000)       2    0.0%    0.0%  
+[    1.000000,     1.100000)  160851   64.3%   64.3%  ######
+[    1.100000,     1.210000)       0    0.0%   64.3%  
+[    1.210000,     1.331000)       0    0.0%   64.3%  
+[    1.331000,     1.464100)       0    0.0%   64.3%  
+[    1.464100,     1.610510)       0    0.0%   64.3%  
+[    1.610510,     1.771561)       0    0.0%   64.3%  
+[    1.771561,     1.948717)       0    0.0%   64.3%  
+[    1.948717,     2.143589)   29661   11.9%   76.2%  #
+[    2.143589,     2.357948)       0    0.0%   76.2%  
+[    2.357948,     2.593742)       0    0.0%   76.2%  
+[    2.593742,     2.853117)       0    0.0%   76.2%  
+[    2.853117,     3.138428)    6335    2.5%   78.7%  
+[    3.138428,     3.452271)       0    0.0%   78.7%  
+[    3.452271,     3.797498)       0    0.0%   78.7%  
+[    3.797498,     4.177248)    1823    0.7%   79.5%  
+[    4.177248,     4.594973)       0    0.0%   79.5%  
+[    4.594973,     5.054470)     149    0.1%   79.5%  
+[    5.054470,     5.559917)       0    0.0%   79.5%  
+[    5.559917,     6.115909)      41    0.0%   79.5%  
+[    6.115909,     6.727500)       0    0.0%   79.5%  
+[    6.727500,     7.400250)      19    0.0%   79.5%  
+[    7.400250,     8.140275)      14    0.0%   79.5%  
+[    8.140275,     8.954302)       0    0.0%   79.5%  
+[    8.954302,     9.849733)      14    0.0%   79.6%  
+[    9.849733,    10.834706)      14    0.0%   79.6%  
+[   10.834706,    11.918177)     131    0.1%   79.6%  
+[   11.918177,    13.109994)    4467    1.8%   81.4%  
+[   13.109994,    14.420994)    1409    0.6%   82.0%  
+[   14.420994,    15.863093)    1025    0.4%   82.4%  
+[   15.863093,    17.449402)     713    0.3%   82.7%  
+[   17.449402,    19.194342)     100    0.0%   82.7%  
+[   19.194342,    21.113777)      22    0.0%   82.7%  
+[   21.113777,    23.225154)    1206    0.5%   83.2%  
+[   23.225154,    25.547670)    4476    1.8%   85.0%  
+[   25.547670,    28.102437)    4100    1.6%   86.6%  
+[   28.102437,    30.912681)     675    0.3%   86.9%  
+[   30.912681,    34.003949)     374    0.1%   87.0%  
+[   34.003949,    37.404343)    1535    0.6%   87.7%  
+[   37.404343,    41.144778)    1514    0.6%   88.3%  
+[   41.144778,    45.259256)     550    0.2%   88.5%  
+[   45.259256,    49.785181)    2852    1.1%   89.6%  
+[   49.785181,    54.763699)    2564    1.0%   90.6%  
+[   54.763699,    60.240069)    1051    0.4%   91.1%  
+[   60.240069,    66.264076)    1057    0.4%   91.5%  
+[   66.264076,    72.890484)    1670    0.7%   92.2%  
+[   72.890484,    80.179532)    2234    0.9%   93.0%  
+[   80.179532,    88.197485)    1021    0.4%   93.5%  
+[   88.197485,    97.017234)    1614    0.6%   94.1%  
+[   97.017234,   106.718957)    1312    0.5%   94.6%  
+[  106.718957,   117.390853)    1069    0.4%   95.1%  
+[  117.390853,   129.129938)    1559    0.6%   95.7%  
+[  129.129938,   142.042932)     986    0.4%   96.1%  
+[  142.042932,   156.247225)    1122    0.4%   96.5%  
+[  156.247225,   171.871948)    1035    0.4%   96.9%  
+[  171.871948,   189.059142)     971    0.4%   97.3%  
+[  189.059142,   207.965057)     866    0.3%   97.7%  
+[  207.965057,   228.761562)     821    0.3%   98.0%  
+[  228.761562,   251.637719)     786    0.3%   98.3%  
+[  251.637719,   276.801490)     666    0.3%   98.6%  
+[  276.801490,   304.481640)     566    0.2%   98.8%  
+[  304.481640,   334.929803)     511    0.2%   99.0%  
+[  334.929803,   368.422784)     446    0.2%   99.2%  
+[  368.422784,   405.265062)     375    0.1%   99.3%  
+[  405.265062,   445.791568)     313    0.1%   99.5%  
+[  445.791568,   490.370725)     275    0.1%   99.6%  
+[  490.370725,   539.407798)     226    0.1%   99.7%  
+[  539.407798,   593.348578)     200    0.1%   99.7%  
+[  593.348578,   652.683435)     132    0.1%   99.8%  
+[  652.683435,   717.951779)     107    0.0%   99.8%  
+[  717.951779,   789.746957)     108    0.0%   99.9%  
+[  789.746957,   868.721652)      69    0.0%   99.9%  
+[  868.721652,   955.593818)      75    0.0%   99.9%  
+[  955.593818,  1051.153200)      41    0.0%  100.0%  
+[ 1051.153200,  1156.268519)      42    0.0%  100.0%  
+[ 1156.268519,  1271.895371)      23    0.0%  100.0%  
+[ 1271.895371,  1399.084909)      15    0.0%  100.0%  
+[ 1399.084909,  1538.993399)      14    0.0%  100.0%  
+[ 1538.993399,  1692.892739)       9    0.0%  100.0%  
+[ 1692.892739,  1862.182013)       1    0.0%  100.0%  
+[ 1862.182013,  2048.400215)       2    0.0%  100.0%  
+[ 2048.400215,  2253.240236)       0    0.0%  100.0%  
+[ 2253.240236,  2478.564260)       2    0.0%  100.0%  
+[ 2478.564260,  2726.420686)       0    0.0%  100.0%  
+[ 2726.420686,  2999.062754)       0    0.0%  100.0%  
+[ 2999.062754,  3298.969030)       0    0.0%  100.0%  
+[ 3298.969030,  3628.865933)       0    0.0%  100.0%  
+[ 3628.865933,  3991.752526)       0    0.0%  100.0%  
+[ 3991.752526,  4390.927778)       0    0.0%  100.0%  
+[ 4390.927778,  4830.020556)       0    0.0%  100.0%  
+[ 4830.020556,  5313.022612)       0    0.0%  100.0%  
+[ 5313.022612,  5844.324873)       0    0.0%  100.0%  
+[ 5844.324873,  6428.757360)       0    0.0%  100.0%  
+[ 6428.757360,  7071.633096)       0    0.0%  100.0%  
+[ 7071.633096,  7778.796406)       0    0.0%  100.0%  
+[ 7778.796406,  8556.676047)       0    0.0%  100.0%  
+[ 8556.676047,  9412.343651)       0    0.0%  100.0%  
+[ 9412.343651, 10353.578016)       0    0.0%  100.0%  
+[10353.578016, 11388.935818)       0    0.0%  100.0%  
+[11388.935818, 12527.829400)       0    0.0%  100.0%  
+
+update latency:
+Count: 250002  Min:   0.0  Max: 1889.0  Avg: 6.42
+------------------------------------------------------------
+[    0.000000,     1.000000)       1    0.0%    0.0%  
+[    1.000000,     1.100000)  192387   77.0%   77.0%  ########
+[    1.100000,     1.210000)       0    0.0%   77.0%  
+[    1.210000,     1.331000)       0    0.0%   77.0%  
+[    1.331000,     1.464100)       0    0.0%   77.0%  
+[    1.464100,     1.610510)       0    0.0%   77.0%  
+[    1.610510,     1.771561)       0    0.0%   77.0%  
+[    1.771561,     1.948717)       0    0.0%   77.0%  
+[    1.948717,     2.143589)   34355   13.7%   90.7%  #
+[    2.143589,     2.357948)       0    0.0%   90.7%  
+[    2.357948,     2.593742)       0    0.0%   90.7%  
+[    2.593742,     2.853117)       0    0.0%   90.7%  
+[    2.853117,     3.138428)    7482    3.0%   93.7%  
+[    3.138428,     3.452271)       0    0.0%   93.7%  
+[    3.452271,     3.797498)       0    0.0%   93.7%  
+[    3.797498,     4.177248)    2089    0.8%   94.5%  
+[    4.177248,     4.594973)       0    0.0%   94.5%  
+[    4.594973,     5.054470)     183    0.1%   94.6%  
+[    5.054470,     5.559917)       0    0.0%   94.6%  
+[    5.559917,     6.115909)      45    0.0%   94.6%  
+[    6.115909,     6.727500)       0    0.0%   94.6%  
+[    6.727500,     7.400250)      31    0.0%   94.6%  
+[    7.400250,     8.140275)      19    0.0%   94.6%  
+[    8.140275,     8.954302)       0    0.0%   94.6%  
+[    8.954302,     9.849733)      17    0.0%   94.6%  
+[    9.849733,    10.834706)      22    0.0%   94.7%  
+[   10.834706,    11.918177)      33    0.0%   94.7%  
+[   11.918177,    13.109994)    1045    0.4%   95.1%  
+[   13.109994,    14.420994)     314    0.1%   95.2%  
+[   14.420994,    15.863093)     235    0.1%   95.3%  
+[   15.863093,    17.449402)     181    0.1%   95.4%  
+[   17.449402,    19.194342)      19    0.0%   95.4%  
+[   19.194342,    21.113777)      12    0.0%   95.4%  
+[   21.113777,    23.225154)     336    0.1%   95.5%  
+[   23.225154,    25.547670)    1189    0.5%   96.0%  
+[   25.547670,    28.102437)     993    0.4%   96.4%  
+[   28.102437,    30.912681)     169    0.1%   96.5%  
+[   30.912681,    34.003949)      84    0.0%   96.5%  
+[   34.003949,    37.404343)     390    0.2%   96.7%  
+[   37.404343,    41.144778)     351    0.1%   96.8%  
+[   41.144778,    45.259256)     144    0.1%   96.8%  
+[   45.259256,    49.785181)     776    0.3%   97.2%  
+[   49.785181,    54.763699)     686    0.3%   97.4%  
+[   54.763699,    60.240069)     231    0.1%   97.5%  
+[   60.240069,    66.264076)     273    0.1%   97.6%  
+[   66.264076,    72.890484)     505    0.2%   97.8%  
+[   72.890484,    80.179532)     612    0.2%   98.1%  
+[   80.179532,    88.197485)     259    0.1%   98.2%  
+[   88.197485,    97.017234)     477    0.2%   98.4%  
+[   97.017234,   106.718957)     360    0.1%   98.5%  
+[  106.718957,   117.390853)     318    0.1%   98.6%  
+[  117.390853,   129.129938)     407    0.2%   98.8%  
+[  129.129938,   142.042932)     279    0.1%   98.9%  
+[  142.042932,   156.247225)     326    0.1%   99.1%  
+[  156.247225,   171.871948)     299    0.1%   99.2%  
+[  171.871948,   189.059142)     248    0.1%   99.3%  
+[  189.059142,   207.965057)     246    0.1%   99.4%  
+[  207.965057,   228.761562)     239    0.1%   99.5%  
+[  228.761562,   251.637719)     224    0.1%   99.6%  
+[  251.637719,   276.801490)     191    0.1%   99.6%  
+[  276.801490,   304.481640)     152    0.1%   99.7%  
+[  304.481640,   334.929803)     136    0.1%   99.7%  
+[  334.929803,   368.422784)     117    0.0%   99.8%  
+[  368.422784,   405.265062)     115    0.0%   99.8%  
+[  405.265062,   445.791568)      75    0.0%   99.9%  
+[  445.791568,   490.370725)      83    0.0%   99.9%  
+[  490.370725,   539.407798)      52    0.0%   99.9%  
+[  539.407798,   593.348578)      33    0.0%   99.9%  
+[  593.348578,   652.683435)      27    0.0%   99.9%  
+[  652.683435,   717.951779)      32    0.0%  100.0%  
+[  717.951779,   789.746957)      30    0.0%  100.0%  
+[  789.746957,   868.721652)      16    0.0%  100.0%  
+[  868.721652,   955.593818)      13    0.0%  100.0%  
+[  955.593818,  1051.153200)      13    0.0%  100.0%  
+[ 1051.153200,  1156.268519)       9    0.0%  100.0%  
+[ 1156.268519,  1271.895371)       5    0.0%  100.0%  
+[ 1271.895371,  1399.084909)       3    0.0%  100.0%  
+[ 1399.084909,  1538.993399)       3    0.0%  100.0%  
+[ 1538.993399,  1692.892739)       1    0.0%  100.0%  
+[ 1692.892739,  1862.182013)       4    0.0%  100.0%  
+[ 1862.182013,  2048.400215)       1    0.0%  100.0%  
+[ 2048.400215,  2253.240236)       0    0.0%  100.0%  
+[ 2253.240236,  2478.564260)       0    0.0%  100.0%  
+[ 2478.564260,  2726.420686)       0    0.0%  100.0%  
+[ 2726.420686,  2999.062754)       0    0.0%  100.0%  
+[ 2999.062754,  3298.969030)       0    0.0%  100.0%  
+[ 3298.969030,  3628.865933)       0    0.0%  100.0%  
+[ 3628.865933,  3991.752526)       0    0.0%  100.0%  
+[ 3991.752526,  4390.927778)       0    0.0%  100.0%  
+[ 4390.927778,  4830.020556)       0    0.0%  100.0%  
+[ 4830.020556,  5313.022612)       0    0.0%  100.0%  
+[ 5313.022612,  5844.324873)       0    0.0%  100.0%  
+[ 5844.324873,  6428.757360)       0    0.0%  100.0%  
+[ 6428.757360,  7071.633096)       0    0.0%  100.0%  
+[ 7071.633096,  7778.796406)       0    0.0%  100.0%  
+[ 7778.796406,  8556.676047)       0    0.0%  100.0%  
+[ 8556.676047,  9412.343651)       0    0.0%  100.0%  
+[ 9412.343651, 10353.578016)       0    0.0%  100.0%  
+[10353.578016, 11388.935818)       0    0.0%  100.0%  
+[11388.935818, 12527.829400)       0    0.0%  100.0%  

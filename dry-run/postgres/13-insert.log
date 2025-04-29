@@ -1,1 +1,0 @@
-2025/04/29 13:43:44 failed to connect to `host=127.0.0.1 user=ubuntu database=test`: failed SASL auth (FATAL: password authentication failed for user "ubuntu" (SQLSTATE 28P01))
